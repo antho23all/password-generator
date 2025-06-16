@@ -1,0 +1,22 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (if added later)
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# macOS system files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs and backups
+*.log
+*.bak
