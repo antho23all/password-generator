@@ -22,5 +22,12 @@ This is a basic Python password generator that creates secure, random passwords 
 
 ```bash
 python password_generator.py
+## 📧 Contact
+
+
+
+- GitHub: https://github.com/antho23all/password-generator
+- Email: amalbro_Jr@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/amalbroughjr
 
 
